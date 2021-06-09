@@ -1,6 +1,3 @@
-# Proper CICD with Openshift, ArgoCD & Gitlab in Vsphere
-
-
 ## Almalinux (For Gitlab Server)
 
 1. Install Almalinux
